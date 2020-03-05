@@ -4,4 +4,8 @@
     <string name="teal_and_orange">Teal and Orange</string>
     <string name="red_and_blue">Red and Blue</string>
     <string name="grey_and_olive">Grey and Olive</string>
+    <string name="enter_some_text_here">Enter some text here</string>
+    <string name="bottom_sheet_peek">bottom_sheet_peek</string>
+    <string name="bottom_sheet_content">bottom_sheet_content</string>
+    <string name="press_me">Press me</string>
 </resources>
