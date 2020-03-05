@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    //teal_and_orange color scheme
+    <color name="colorPrimaryOrange">#ffd54f</color>
+    <color name="colorLightOrange">#ffff81</color>
+    <color name="colorDarkOrange">#c8a415</color>
+    <color name="colorSecondaryTeal">#4cb5ab</color>
+    <color name="colorLightTeal">#81e8dd</color>
+    <color name="colorDarkTeal">#00857c</color>
+
+    //red_and_indigo color scheme
+    <color name="colorPrimaryRed">#e57373</color>
+    <color name="colorLightRed">#ffa4a2</color>
+    <color name="colorDarkRed">#af4448</color>
+    <color name="colorSecondaryIndigo">#7986cb</color>
+    <color name="colorLightIndigo">#7986cb</color>
+    <color name="colorDarkIndigo">#7986cb</color>
+
+    //grey_and_olive color scheme
+    <color name="colorPrimaryGrey">#90a4ae</color>
+    <color name="colorLightGrey">#c1d5e0</color>
+    <color name="colorDarkGrey">#62757f</color>
+    <color name="colorSecondaryOlive">#aed581</color>
+    <color name="colorLightOlive">#aed581</color>
+    <color name="colorDarkOlive">#aed581</color>
+</resources>

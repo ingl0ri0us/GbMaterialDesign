@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GbMaterialDesign</string>
+    <string name="action_settings">Settings</string>
+    <string name="teal_and_orange">Teal and Orange</string>
+    <string name="red_and_blue">Red and Blue</string>
+    <string name="grey_and_olive">Grey and Olive</string>
+</resources>
