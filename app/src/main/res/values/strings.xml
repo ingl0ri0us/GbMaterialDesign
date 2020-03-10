@@ -13,4 +13,22 @@
     <string name="flat_button_border">Flat button border</string>
     <string name="raised_button">Raised button</string>
     <string name="raised_button_background">Raised button background</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="go_to_navigation_drawer_activity">Go to navigation drawer activity</string>
+    <string name="go_to_progress_bar_activity">Go to progress bar activity</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
 </resources>
