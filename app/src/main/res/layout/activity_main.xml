@@ -43,8 +43,8 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/press_me"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        android:text="@string/press_me" />
 
     <include layout="@layout/bottom_sheet"/>
 
@@ -56,6 +56,13 @@
         android:layout_margin="@dimen/fab_margin"
         app:srcCompat="@android:drawable/ic_dialog_email" />
 
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="@string/go_to_button_activity" />
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

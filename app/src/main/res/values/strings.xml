@@ -8,4 +8,9 @@
     <string name="bottom_sheet_peek">bottom_sheet_peek</string>
     <string name="bottom_sheet_content">bottom_sheet_content</string>
     <string name="press_me">Press me</string>
+    <string name="go_to_button_activity">Go to button activity</string>
+    <string name="flat_button">Flat button</string>
+    <string name="flat_button_border">Flat button border</string>
+    <string name="raised_button">Raised button</string>
+    <string name="raised_button_background">Raised button background</string>
 </resources>

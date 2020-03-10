@@ -38,6 +38,10 @@ class MainActivity : AppCompatActivity() {
                 Snackbar.LENGTH_SHORT).show()
         }
 
+        button9.setOnClickListener{
+            startActivity(Intent(this, ButtonsActivity::class.java))
+        }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
