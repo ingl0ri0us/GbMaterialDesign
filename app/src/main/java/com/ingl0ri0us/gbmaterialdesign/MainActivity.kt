@@ -51,6 +51,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, ProgressBarActivity::class.java))
         }
 
+        button12.setOnClickListener {
+            startActivity(Intent(this, ScrollingActivity::class.java))
+        }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
