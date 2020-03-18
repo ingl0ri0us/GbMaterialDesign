@@ -8,4 +8,65 @@
     <string name="bottom_sheet_peek">bottom_sheet_peek</string>
     <string name="bottom_sheet_content">bottom_sheet_content</string>
     <string name="press_me">Press me</string>
+    <string name="go_to_button_activity">Go to button activity</string>
+    <string name="flat_button">Flat button</string>
+    <string name="flat_button_border">Flat button border</string>
+    <string name="raised_button">Raised button</string>
+    <string name="raised_button_background">Raised button background</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="go_to_navigation_drawer_activity">Go to navigation drawer activity</string>
+    <string name="go_to_progress_bar_activity">Go to progress bar activity</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="stih">
+У лукоморья дуб зелёный;\n
+Златая цепь на дубе том:\n
+И днём и ночью кот учёный\n
+Всё ходит по цепи кругом;\n
+Идёт направо - песнь заводит,\n
+Налево - сказку говорит.\n
+Там чудеса: там леший бродит,\n
+Русалка на ветвях сидит;\n
+Там на неведомых дорожках\n
+Следы невиданных зверей;\n
+Избушка там на курьих ножках\n
+Стоит без окон, без дверей;\n
+Там лес и дол видений полны;\n
+Там о заре прихлынут волны\n
+На брег песчаный и пустой,\n
+И тридцать витязей прекрасных\n
+Чредой из вод выходят ясных,\n
+И с ними дядька их морской;\n
+Там королевич мимоходом\n
+Пленяет грозного царя;\n
+Там в облаках перед народом\n
+Через леса, через моря\n
+Колдун несёт богатыря;\n
+В темнице там царевна тужит,\n
+А бурый волк ей верно служит;\n
+Там ступа с Бабою Ягой\n
+Идёт, бредёт сама собой,\n
+Там царь Кащей над златом чахнет;\n
+Там русский дух… там Русью пахнет!\n
+И там я был, и мёд я пил;\n
+У моря видел дуб зелёный;\n
+Под ним сидел, и кот учёный\n
+Свои мне сказки говорил.\n
+    </string>
+    <string name="go_to_scrolling_activity">Go to scrolling activity</string>
 </resources>
