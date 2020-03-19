@@ -35,7 +35,28 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(
                 view,
                 textToShow,
-                Snackbar.LENGTH_SHORT).show()
+                Snackbar.LENGTH_SHORT
+            ).show()
+        }
+
+        button9.setOnClickListener {
+            startActivity(Intent(this, ButtonsActivity::class.java))
+        }
+
+        button10.setOnClickListener {
+            startActivity(Intent(this, NavigationDrawerActivity::class.java))
+        }
+
+        button11.setOnClickListener {
+            startActivity(Intent(this, ProgressBarActivity::class.java))
+        }
+
+        button12.setOnClickListener {
+            startActivity(Intent(this, ScrollingActivity::class.java))
+        }
+
+        button13.setOnClickListener {
+            startActivity(Intent(this, RecyclerviewActivity::class.java))
         }
 
     }
