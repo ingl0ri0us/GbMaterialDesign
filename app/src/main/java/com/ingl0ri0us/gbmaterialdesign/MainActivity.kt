@@ -55,6 +55,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, ScrollingActivity::class.java))
         }
 
+        button13.setOnClickListener {
+            startActivity(Intent(this, RecyclerviewActivity::class.java))
+        }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

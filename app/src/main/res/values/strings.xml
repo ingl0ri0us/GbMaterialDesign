@@ -69,4 +69,6 @@
 Свои мне сказки говорил.\n
     </string>
     <string name="go_to_scrolling_activity">Go to scrolling activity</string>
+    <string name="go_to_recyclerview_activity">Go to RecyclerView activity</string>
+    <string name="image">image</string>
 </resources>

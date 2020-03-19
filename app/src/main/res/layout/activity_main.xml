@@ -44,6 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:layout_marginTop="-100dp"
         android:text="@string/press_me" />
 
     <include layout="@layout/bottom_sheet"/>
@@ -87,6 +88,14 @@
         android:layout_gravity="center"
         android:layout_marginTop="400dp"
         android:text="@string/go_to_scrolling_activity" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:text="@string/go_to_recyclerview_activity" />
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
