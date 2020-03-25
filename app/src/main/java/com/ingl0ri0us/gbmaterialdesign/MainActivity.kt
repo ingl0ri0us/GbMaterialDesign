@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
 import com.google.android.material.bottomsheet.BottomSheetBehavior
+import com.ingl0ri0us.gbmaterialdesign.tabs.BottomActivity
+import com.ingl0ri0us.gbmaterialdesign.tabs.TabsActivity
 
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.bottom_sheet.*
@@ -59,6 +61,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, RecyclerviewActivity::class.java))
         }
 
+        button14.setOnClickListener {
+            startActivity(Intent(this, TabsActivity::class.java))
+        }
+
+        button15.setOnClickListener {
+            startActivity(Intent(this, BottomActivity::class.java))
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

@@ -71,4 +71,16 @@
     <string name="go_to_scrolling_activity">Go to scrolling activity</string>
     <string name="go_to_recyclerview_activity">Go to RecyclerView activity</string>
     <string name="image">image</string>
+    <string name="tabs_activity">Tabs activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_tabs_activity">Go to Tabs Activity</string>
+    <string name="slide">Slide</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="go_to_bottom_navigation_activity">Go to bottom navigation activity</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="third_fragment">Third fragment</string>
 </resources>

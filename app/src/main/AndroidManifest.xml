@@ -11,7 +11,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".RecyclerviewActivity"></activity>
+        <activity android:name=".tabs.BottomActivity"></activity>
+        <activity android:name="com.ingl0ri0us.BottomActivity" />
+        <activity
+            android:name=".tabs.TabsActivity"
+            android:label="TabsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".RecyclerviewActivity" />
         <activity
             android:name=".ScrollingActivity"
             android:label="@string/title_activity_scrolling"
