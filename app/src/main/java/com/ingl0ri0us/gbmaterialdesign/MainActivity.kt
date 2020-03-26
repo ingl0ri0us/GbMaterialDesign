@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
 import com.google.android.material.bottomsheet.BottomSheetBehavior
+import com.ingl0ri0us.gbmaterialdesign.tabs.BottomActivity
+import com.ingl0ri0us.gbmaterialdesign.tabs.TabsActivity
 
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.bottom_sheet.*
@@ -35,9 +37,37 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(
                 view,
                 textToShow,
-                Snackbar.LENGTH_SHORT).show()
+                Snackbar.LENGTH_SHORT
+            ).show()
         }
 
+        button9.setOnClickListener {
+            startActivity(Intent(this, ButtonsActivity::class.java))
+        }
+
+        button10.setOnClickListener {
+            startActivity(Intent(this, NavigationDrawerActivity::class.java))
+        }
+
+        button11.setOnClickListener {
+            startActivity(Intent(this, ProgressBarActivity::class.java))
+        }
+
+        button12.setOnClickListener {
+            startActivity(Intent(this, ScrollingActivity::class.java))
+        }
+
+        button13.setOnClickListener {
+            startActivity(Intent(this, RecyclerviewActivity::class.java))
+        }
+
+        button14.setOnClickListener {
+            startActivity(Intent(this, TabsActivity::class.java))
+        }
+
+        button15.setOnClickListener {
+            startActivity(Intent(this, BottomActivity::class.java))
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
