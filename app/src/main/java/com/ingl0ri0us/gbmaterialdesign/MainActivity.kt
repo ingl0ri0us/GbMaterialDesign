@@ -68,6 +68,7 @@ class MainActivity : AppCompatActivity() {
         button15.setOnClickListener {
             startActivity(Intent(this, BottomActivity::class.java))
         }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
